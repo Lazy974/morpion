@@ -1,16 +1,17 @@
-Solutions to additional challenges given in React's "tic tac toe" tutorial. [Demo](https://harman052.github.io/react-tutorial-solutions/)<br><br>
-In addition to tutorial challenges, reset and play again buttons are added. Technically, both are same. Reset button appears all the time but play again shows up only when game is over (i.e. either draw or win/lose).
+# Jeu du morpion à partir de Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Ce jeu est la solution du tutoriel issue de `React`
 
-### How to start the app?
+Dans le but d'approfondir mes connaissances en React, j'ai pu réaliser à l'aide de Google et de la documentation React, le jeu du Morpion.
 
-Go to the app root directory and run: `npm start`
+Afin de pouvoir jouer :
 
-It will start the development server. App will open at [http://localhost:3000](http://localhost:3000) in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
+- Suivre les étapes suivantes : 
+  - Cloner le repo `git clone`
+  - Naviguer jusqu'au dossier `morpion`
+  - Utiliser `npm install` pour installer les modules node
+  - Utiliser `npm start` pour démarrer le serveur sur `localhost:3000`
 
-### Useful links
+### Liens utiles
 
-[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html).
-
-#### Suggestions/contributions for all sorts of improvements are highly encouraged. :-)
+[Tutoriel : Introduction à React](https://fr.reactjs.org/tutorial/tutorial.html).
